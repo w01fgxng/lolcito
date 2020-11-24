@@ -4,7 +4,7 @@ class MyDocument extends Document {
     render() {
         return (
             <Html>
-                <meta http-equiv="Conten-Security-Policy" content="upgrade-insecure-requests" />
+                <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
                 <Head>
 
                 </Head>
